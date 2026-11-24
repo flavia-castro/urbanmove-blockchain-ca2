@@ -1,0 +1,4 @@
+.deps/
+.states/
+artifacts/
+.DS_Store
